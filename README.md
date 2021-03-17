@@ -53,25 +53,25 @@ Find the value at the nth position in the Fibonacci sequence. A Fibonacci sequen
 V.0
 
 Start 
-  get n
-  find value at nth position
+* get n
+* find value at nth position
 end
 
 V.1
  START
-  GET N
-  GET fibonacciSequence
-  SET fibonacciSequence 
-  FIND value at Nth in fibonacciSequence 
+  * GET N
+  * GET fibonacciSequence
+  * SET fibonacciSequence 
+  * FIND value at Nth in fibonacciSequence 
  END
 
 V.2
 
 START
-  GET n
-  SET fibonacciSequence (1...n)
-  GET value at n
-  PRINT value at n
+* GET n
+* SET fibonacciSequence (1...n)
+* GET value at n
+* PRINT value at n
   
 END
 
