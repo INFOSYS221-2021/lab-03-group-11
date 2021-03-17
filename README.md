@@ -68,9 +68,23 @@ V.1
 V.2
 
 START
-  GET N
+  GET n
+  SET fibonacciSequence (1...n)
+  GET value at n
+  PRINT value at n
   
 END
+
+V.3
+
+START
+
+  GET n
+  SET fibonacciSequence (1,1,3,5,8....)
+  CALCULATE lastposition[-1] + lastposition[-2] as n
+  PRINT n
+END
+
 
 ------------------------------------------------------------------------------
 Exercise Four: Greatest Common Divisor
