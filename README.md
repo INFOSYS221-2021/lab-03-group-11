@@ -15,9 +15,9 @@ Mal - mbla240:
 * 2	INPUT take word or sentence as a string
 * 3	SET input to stringToReverse
 * 4	SET reversedString to empty string ""
-* 5	FOR (an int i in range: (length of string - 1) to 0 (including 0), DECREMENT i)
-* 6		SET reversedString plus stringToReverse[i]
-* 7 ENDFOR
+* * 5	FOR (an int i in range: (length of string - 1) to 0 (including 0), DECREMENT i)
+* * 6		SET reversedString plus stringToReverse[i]
+* * 7 ENDFOR
 * 8	PRINT reversedString
 * 9	STOP
 
