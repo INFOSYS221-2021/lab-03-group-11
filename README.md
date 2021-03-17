@@ -10,7 +10,21 @@ Write the pseudocode instructions for the following:
 
 Given a word or a sentence, display the given word/sentence in reverse order.
 
-Mal - mbla240:
+V.0
+start
+get sentence
+  reverse
+end
+
+V.1
+start
+  get sentence
+    set sentence to sentenceWord
+  reverse sentenceWord
+  print sentenceWord
+End
+
+V.final
 * 1	START
 * 2	INPUT take word or sentence as a string
 * 3	SET input to stringToReverse
