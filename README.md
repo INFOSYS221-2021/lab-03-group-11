@@ -50,7 +50,27 @@ Write the pseudocode instructions for the following:
 
 Find the value at the nth position in the Fibonacci sequence. A Fibonacci sequence is a series of numbers, where the next number is the sum of the previous numbers. For example, if n is 6, then the value is 8 (the Fibonacci sequence is 1, 1, 2,3, 5, 8).
 
+V.0
 
+Start 
+  get n
+  find value at nth position
+end
+
+V.1
+ START
+  GET N
+  GET fibonacciSequence
+  SET fibonacciSequence 
+  FIND value at Nth in fibonacciSequence 
+ END
+
+V.2
+
+START
+  GET N
+  
+END
 
 ------------------------------------------------------------------------------
 Exercise Four: Greatest Common Divisor
